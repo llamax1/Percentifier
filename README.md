@@ -1,7 +1,7 @@
 # Percentifier
 A percentage calculator designed to help teachers marking test and exam papers.
 
-[View on GitHub Pages](https://llamax1.github.io/percentifier)
+[View on GitHub Pages](https://llamax1.github.io/Percentifier)
 
 ![Screenshot](https://i.imgur.com/Xgt2K86.png)
 
